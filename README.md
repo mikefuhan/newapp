@@ -1,3 +1,1 @@
-# newapp
-first commit
-## just a test
+# newapp - for MBA
